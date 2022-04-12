@@ -1,2 +1,2 @@
 # WifiLogged
-run Primes.py
+run primes.py
